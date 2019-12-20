@@ -1,0 +1,27 @@
+.bg-theme{
+  background-color:#10A881;
+}
+.cart-icon {
+  font-size: 2rem;
+}
+.heromain{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about-heromain{
+  min-height: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-warning{
+  padding: 8px 35px;
+}
+.about-contact{
+  min-width: 40vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
